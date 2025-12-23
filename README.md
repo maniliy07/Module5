@@ -1,2 +1,3 @@
 # Module5
-Project 5: Customer Segmentation with Clustering
+
+### Required Assignment 5.1: Will the Customer Accept the Coupon?
