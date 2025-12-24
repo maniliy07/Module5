@@ -2,6 +2,7 @@
 
 ### Required Assignment 5.1: Will the Customer Accept the Coupon?
 
+https://github.com/maniliy07/Module5/blob/main/prompt.ipynb
 
 **Context**
 
