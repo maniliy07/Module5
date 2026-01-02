@@ -55,7 +55,7 @@ The attributes of this data set include:
 3. Coupon attributes
     - time before it expires: 2 hours or one day
   
- ** Based on the data analysis, several key hypotheses emerge regarding the characteristics of drivers who accept bar coupons: **
+ **Based on the data analysis, several key hypotheses emerge regarding the characteristics of drivers who accept bar coupons:**
 
 1. Behavioral Habit is the Primary Driver
 The strongest predictor for accepting a bar coupon is the driver's existing habit. Drivers who visit bars more than three times a month accepted coupons at a rate of 76.88%, compared to only 37.06% for those who go less frequently.
