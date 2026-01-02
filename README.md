@@ -60,17 +60,17 @@ The attributes of this data set include:
 1. Behavioral Habit is the Primary Driver
 The strongest predictor for accepting a bar coupon is the driver's existing habit. Drivers who visit bars more than three times a month accepted coupons at a rate of 76.88%, compared to only 37.06% for those who go less frequently.
 
-Hypothesis: Bar coupons do not necessarily "create" new customers from non-bar-goers; instead, they are highly effective at incentivizing existing customers to visit again or perhaps choose a specific venue over another.
+**Hypothesis:** Bar coupons do not necessarily "create" new customers from non-bar-goers; instead, they are highly effective at incentivizing existing customers to visit again or perhaps choose a specific venue over another.
 
 2. Social Context and Life Stage
 Drivers without children in the car and those who are not widowed showed significantly higher acceptance rates. Furthermore, the combination of being a frequent bar-goer and being over the age of 25 (69.52%) or under the age of 30 (as part of the combined group) indicates a "socially active" demographic.
 
-Hypothesis: The "Bar" coupon is viewed as a social/leisure tool. The presence of children acts as a logistical barrier to acceptance, while younger or socially active adults are more likely to view the coupon as an opportunity for a planned or spontaneous social outing.
+**Hypothesis:** The "Bar" coupon is viewed as a social/leisure tool. The presence of children acts as a logistical barrier to acceptance, while younger or socially active adults are more likely to view the coupon as an opportunity for a planned or spontaneous social outing.
 
 3. The "Value-Seeking Socializer" Profile
 The analysis showed that individuals who frequent cheap restaurants (more than 4 times a month) and have lower incomes (<$50k) also show a higher propensity to accept bar coupons.
 
-**Hypothesis: There is a specific segment of the population that is price-sensitive but socially active. These individuals are motivated by "value" and are more likely to utilize coupons to maintain their social lifestyle while staying within a budget.**
+**Hypothesis:** There is a specific segment of the population that is price-sensitive but socially active. These individuals are motivated by "value" and are more likely to utilize coupons to maintain their social lifestyle while staying within a budget.
 
 4. Occupational and Demographic Stability
 Drivers in professions like farming, fishing, or forestry were less likely to accept these coupons.
