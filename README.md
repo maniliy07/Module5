@@ -70,12 +70,12 @@ Hypothesis: The "Bar" coupon is viewed as a social/leisure tool. The presence of
 3. The "Value-Seeking Socializer" Profile
 The analysis showed that individuals who frequent cheap restaurants (more than 4 times a month) and have lower incomes (<$50k) also show a higher propensity to accept bar coupons.
 
-Hypothesis: There is a specific segment of the population that is price-sensitive but socially active. These individuals are motivated by "value" and are more likely to utilize coupons to maintain their social lifestyle while staying within a budget.
+**Hypothesis: There is a specific segment of the population that is price-sensitive but socially active. These individuals are motivated by "value" and are more likely to utilize coupons to maintain their social lifestyle while staying within a budget.**
 
 4. Occupational and Demographic Stability
 Drivers in professions like farming, fishing, or forestry were less likely to accept these coupons.
 
 Hypothesis: Urban or office-based workers may have more access to bars or a social culture that revolves around "happy hours" compared to those in more rural or physically demanding manual labor occupations, making them a more receptive target for bar-related marketing.
 
-Summary Hypothesis
+**Summary Hypothesis**
 The ideal candidate for a bar coupon is a regular bar-goer, likely between the ages of 21 and 35, who is currently driving without children and possesses a lifestyle that already incorporates frequent social dining (even at cheaper venues). Marketing efforts are most effective when targeting people based on their existing routines rather than trying to convert those who rarely visit such establishments.
